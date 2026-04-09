@@ -11,3 +11,9 @@ Notes on audit workflow design, repo triage, hotspot detection ideas, and resear
 
 ## Note
 This repository currently documents public methodology rather than private internal tooling.
+
+## Start here
+
+If you only read one file in this repository, start with:
+
+- [repo-triage-priority-map.md](./repo-triage-priority-map.md)
