@@ -1,10 +1,13 @@
 # Audit Tooling
 
-Small utilities and helper scripts for protocol analysis, security research, and reproducible auditing workflows.
+Notes on audit workflow design, repo triage, hotspot detection ideas, and research tooling philosophy.
 
-## Examples
-- Decoders
-- Storage/state inspection helpers
-- Event/log parsers
-- Simple analyzers
-- Research workflow utilities
+## Focus
+- repo triage methodology
+- hotspot identification
+- invariant-oriented review
+- validation / finalization pattern analysis
+- future public tooling ideas
+
+## Note
+This repository currently documents public methodology rather than private internal tooling.
